@@ -1,0 +1,1336 @@
+/* --------------------NAVBAR------------------------ */
+
+.kimox-logo{
+
+    width: 110px;
+
+}
+
+.web-navbar{
+
+    z-index: 1;
+
+    height: 110px;
+
+    box-shadow: 0px 1px 0px 0px rgb(255 255 255 / 10%);
+
+   
+
+}
+
+.navbar-toggler-icon{
+
+    background-image: none !important;
+
+    border: none !important;
+
+  }
+
+  .navbar {
+
+    --bs-navbar-toggler-focus-width: 0rem;
+
+  }
+
+.navbar-nav{
+
+    margin-left: 500px;
+
+}
+
+.fa-brands{
+
+    padding: 10px;
+
+}
+
+.estimate-button{
+
+    padding: 10px 65px;
+
+    font-weight: 600;
+
+    font-size: 12px;
+
+    font-family: 'Roboto', sans-serif;
+
+    transition: all ease-in-out 1s;
+
+}
+
+.estimate-button:hover{
+
+    background-color: #fff !important;
+
+    color: red !important;
+
+}
+
+.dropdown-menu{
+
+    width: 260px;
+
+    height: 100px;
+
+    border-top: 3px solid red;
+
+    border-radius: 0%;
+
+}
+
+.dropdown-toggle{
+
+    padding: 0;
+
+}
+
+.btn{
+
+    border: none;
+
+}
+
+.dropdown-item {
+
+    font-size: 14px;
+
+    font-weight: 600;
+
+    padding-top: 10px;
+
+}
+
+/* ---------------HERO BOX----------- */
+
+.heroSection{
+
+    width: 100%;
+
+    height: auto;
+
+}
+
+.hero{
+
+    background-size: cover;
+
+}
+
+.hero-overlay{
+
+    background-color: rgba(0, 0, 0, 0.6);
+
+ 
+
+}
+
+.agency-title-container{
+
+    padding-top: 250px;
+
+    padding-left: 200px;
+
+}
+
+.agency-welcome{
+
+    font-weight:700;
+
+}
+
+.agency-title{
+
+    font-size: 120px;
+
+    font-weight: 800;
+
+    font-family: 'Roboto', sans-serif;
+
+    line-height: 130px;
+
+}
+
+.agency-button{
+
+    padding: 25px 48px;
+
+    font-weight: 600;
+
+    font-size: 14px;
+
+    font-family: 'Roboto', sans-serif;
+
+    transition: all ease-in-out 1s;
+
+   
+
+}
+
+.agency-button:hover{
+
+    background-color: #fff !important;
+
+    color: red !important;
+
+}
+
+/* -------------------SERVICES SECTION----------- */
+
+.services-section{
+
+    background-image: url(./mapPic.jpg);
+
+    padding-top: 120px;
+
+    padding-bottom: 120px;
+
+}
+
+.categories{
+
+    font-weight: 700;
+
+}
+
+.categoriesText{
+
+    color: #a0a2a6;
+
+ 
+
+}
+
+.categoriesServices{
+
+    font-size: 60px;
+
+    line-height: 68px;
+
+    font-weight: 900;
+
+    font-family: 'Roboto', sans-serif;
+
+    padding-top: 30px;
+
+}
+
+.myPic{
+
+    height: 75px;
+
+    width: 75px;
+
+}
+
+.webBox{
+
+    height: 220px;
+
+    width: 300px;
+
+    transition: all ease-in-out 1s;
+
+ 
+
+}
+
+.webBox:hover{
+
+    background-color: red !important;
+
+    color: aquamarine!important;
+
+}
+
+.fa-boxes-packing:hover{
+
+    color: #fff !important;
+
+ 
+
+}
+
+/* -----------------------CONSULTATION SECTION--------------- */
+
+.consultation-section{
+
+    width: 80%;
+
+    height: 200px;
+
+    margin-top: -60px;
+
+    margin-left: 170px;
+
+    padding-left: 40px;
+
+}
+
+.consultation-1st-col{
+
+    border-right:1px solid #f1bbbb;
+
+ 
+
+}
+
+.free-consultation-text{
+
+    color: #ffd6d6;
+
+    font-size: 12px;
+
+    line-height: 22px;
+
+}
+
+ 
+
+.secondDiscover{
+
+    margin-left: 80px;
+
+}
+
+ 
+
+/* -------------------------------------GET TO KNOW US------------------------ */
+
+.gettoknowusSection{
+
+    padding-top: 50px;
+
+}
+
+.gettoknowusIMG{
+
+    width: 100%;
+
+    height: 730px;
+
+    color: rgb(119, 122, 126);
+
+ 
+
+}
+
+.gettoknowusText{
+
+    font-weight: 600;
+
+    font-family: 'Roboto', sans-serif;
+
+    font-size: 14px;
+
+    line-height: 35px;
+
+    letter-spacing: 2px;
+
+ 
+
+}
+
+.welcomedigitalAgency{
+
+    font-weight: 900;
+
+    font-size: 47px;
+
+    font-family: 'Roboto', sans-serif;
+
+    line-height: 55px;
+
+ 
+
+}
+
+.gettoknowuspassage{
+
+    color:rgb(119, 122, 126);
+
+    font-size: 18px;
+
+    line-height: 32px;
+
+}
+
+.gettoknowusServices{
+
+    font-size: 18px;
+
+}
+
+ 
+
+.gettoknowusServicesrule {
+
+    height: 3px;
+
+    width: 19px;
+
+    margin-top: 15px;
+
+    margin-right: 21px;
+
+}
+
+.gettoknowusLorem{
+
+    color:rgb(119, 122, 126);
+
+    font-size: 16px;
+
+    font-weight: 400;
+
+    font-family: 'Roboto', sans-serif;
+
+    line-height: 30px;
+
+ 
+
+}
+
+.gettoknowuslist{
+
+    font-size: 17px;
+
+    font-weight: 500;
+
+    font-family: 'Roboto', sans-serif;
+
+ 
+
+}
+
+.fa-check{
+
+    font-weight: 900;
+
+    font-size: 20px;
+
+   
+
+}
+
+/*--------------------------PICTURE GALLERY--------------------*/
+
+.picturegallerySection{
+
+    background-color: rgb(242, 243, 245);
+
+    padding-top: 120px;
+
+ 
+
+}
+
+.picturegallerySubtitle{
+
+    font-weight: 900;
+
+    font-size: 50px;
+
+    font-family: 'Roboto', sans-serif;
+
+    line-height: 60px;
+
+}
+
+.gallerypic{
+
+    width: 100%;
+
+   height: auto;
+
+    filter: grayscale(100%);
+
+ 
+
+}
+
+.gallerypic:hover{
+
+    filter: grayscale(0%);
+
+    transition: all ease-in-out 1s;
+
+}
+
+/* ------------------------------VIDEO GALLERY SECTION---------------- */
+
+.videogallerySection{
+
+    padding-top: 130px;
+
+    background-repeat: no-repeat;
+
+    background-size: contain;
+
+    background-position: 100% 0;
+
+    background-color:rgb(242, 243, 245);
+
+   
+
+ 
+
+}
+
+.videogalleryPic{
+
+     opacity: 0.4;
+
+     object-fit: cover;
+
+     width: 100%;
+
+     height: auto;
+
+   
+
+}
+
+.videopic{
+
+   
+
+    background: rgb(0 0 0 / 85%);
+
+ 
+
+}
+
+.play{
+
+    z-index: 2;
+
+    position: absolute;
+
+    top: 50%;
+
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    padding: 35px 40px;
+
+   
+
+}
+
+.textinIMG{
+
+    font-family:'Roboto', sans-serif;
+
+    left: 1048px;
+
+    top: 400px;
+
+}
+
+.videogalleryEstimate{
+
+    font-size: 12px;
+
+    font-weight: 500;
+
+}
+
+.videogalleryNumber{
+
+    font-size: 28px;
+
+    font-weight: 400;
+
+}
+
+/* -----------------------TESTIMONIAL SECTION---------------- */
+
+.testimonialSection{
+
+    background-color: #fff;
+
+    padding-top: 130px;
+
+    padding-bottom: 200px;
+
+ 
+
+}
+
+.testimonialWrapper{
+
+    border-left: 3px solid #e9ebed;
+
+    border-right: 3px solid #e9ebed;
+
+    border-top: 3px solid #e9ebed;
+
+    border-bottom: 20px solid #e9ebed;
+
+    padding: 40px 30px 70px 30px;
+
+    width: 400px;
+
+}
+
+.testimonialWrapper:hover{
+
+    border-color: red;
+
+}
+
+.testimonialText{
+
+    color: rgb(119, 122, 126);
+
+    font-size: 20px;
+
+    font-family:'Roboto', sans-serif;
+
+    line-height: 34px;
+
+    font-weight: 400;
+
+ 
+
+   
+
+}
+
+.testimonialIMGWrapper{
+
+    bottom: -80px;
+
+    padding-left: 20px;
+
+}
+
+.testimonialImage{
+
+    height: 75px;
+
+    width: 75px;
+
+   
+
+}
+
+.testimonialName{
+
+    font-family:'Roboto', sans-serif;
+
+    font-weight: 700;
+
+    font-size: 15px;
+
+    text-align: left;
+
+}
+
+.testimonialTitle{
+
+    font-family:'Roboto', sans-serif;
+
+    font-size: 13px;
+
+    font-weight: 600;
+
+    text-align: left;
+
+   
+
+ 
+
+}
+
+/* -------------------BRANDS---------------- */
+
+.brandSection{
+
+    padding: 20px 55px;
+
+    border-top:1px solid #ecedef;
+
+}
+
+.brandContainer{
+
+    padding-left: 65px;
+
+}.brand{
+
+    padding: 60px 65px;
+
+    filter: grayscale(100%);
+
+}
+
+.brandImg{
+
+    opacity: 0.4;
+
+    transition: all ease-in-out 1s;
+
+}
+
+.brandImg:hover{
+
+    opacity: 1.0;
+
+}
+
+ 
+
+/* ------------------BUSINESS SECTION-------- */
+
+.businessSection{
+
+    background-image: url(./businessimg.jpg);
+
+    padding-bottom: 90px;
+
+}
+
+.businessHeader{
+
+    font-family:'Roboto', sans-serif;
+
+    padding-top: 90px;
+
+    font-size: 55px;
+
+    font-weight: 800;
+
+    line-height: 58px;
+
+}
+
+ 
+
+/* ----------------------ARTICLE------------------- */
+
+.articleSection{
+
+    padding-top: 100px;
+
+    padding-left: 10px;  
+
+}
+
+.articleWrapper1{
+
+    padding-top: 100px;
+
+}
+
+.articleWrapper1text{
+
+    color: #7e8696;
+
+    font-weight: 600;
+
+}
+
+.articletextTitle{
+
+    font-size: 27px;
+
+    font-weight: 800;
+
+    font-family:'Roboto', sans-serif;
+
+}
+
+.articletextSubtitle{
+
+    color: #7e8696;
+
+    font-family:'Roboto', sans-serif;
+
+    font-size: 13px;
+
+    font-weight: 700;
+
+    letter-spacing: 2px;
+
+}
+
+/* --------------------QUALITY--------------- */
+
+.qualitySection{
+
+    padding-top: 200px;
+
+    padding-bottom: 100px;
+
+}
+
+.qualitySectionIcon{
+
+    padding: 35px;
+
+}
+
+ 
+
+.qualitySectionTextTitle{
+
+    font-size: 30px;
+
+    font-weight: 700;
+
+    font-family:'Roboto', sans-serif;
+
+ 
+
+}
+
+.qualitySectionTextSubtitle{
+
+    font-family:'Roboto', sans-serif;
+
+    color: #7e8696;
+
+ 
+
+}
+
+.qualityIMG{
+
+    filter: grayscale(100%);
+
+    transition: all ease-in-out 1s;
+
+}
+
+.qualityIMG:hover{
+
+    filter: grayscale(0%);
+
+}
+
+/* -------------------------MAP------------------------ */
+
+.mapSection{
+
+    background-color: #dddddd;
+
+    padding-top: 200px;
+
+    padding-bottom: 200px;
+
+}
+
+.fa-location-dot{
+
+    color: #237cc9;
+
+}
+
+/* ---------------------CONTAINER--------------------- */
+
+.contactContainer{
+
+   background-image: url(./mapPic.jpg);
+
+   padding-top: 100px;
+
+   padding-bottom: 100px;
+
+}
+
+.contacttext1{
+
+    color: #8e99a2;
+
+    font-weight: 600;
+
+    font-family:'Roboto', sans-serif;
+
+}
+
+.contacttext2 a{
+
+    text-decoration: none;
+
+    font-weight: 500;
+
+    font-family:'Roboto', sans-serif;
+
+    color: #8e99a2;
+
+    transition: all ease-in-out 1s;
+
+}
+
+.contacttext2 a:hover{
+
+    color: #fff;
+
+}
+
+.contacttext2Title{
+
+    font-family:'Roboto', sans-serif;
+
+    font-size: 22px;
+
+    font-weight: 700;
+
+}
+
+.contactText3{
+
+    font-weight: 500;
+
+    font-family:'Roboto', sans-serif;
+
+    color: #8e99a2;
+
+}
+
+.emailAddress{
+
+    padding-top:  15px ;
+
+    padding-bottom: 15px;
+
+    padding-right: 35px;
+
+    padding-left: 15px;
+
+    width: 100%;
+
+ 
+
+}
+
+form{
+
+    display: flex;
+
+    flex-direction: row;
+
+}
+
+.emailSend{
+
+    transition: all ease-in-out 1s;
+
+}
+
+.emailSend:hover{
+
+    background-color: black !important;
+
+    color: #fff !important;
+
+ 
+
+}
+
+/* ---------------------------FOOTER--------------------- */
+
+footer{
+
+   background-color: #1a1c1e;
+
+   color: #8f9195;
+
+   font-family:'Roboto', sans-serif;
+
+}
+
+footer a{
+
+    text-decoration: none;
+
+    color: #0a388e;
+
+    font-family:'Roboto', sans-serif;
+
+}
+
+.aside{
+
+    width: 250px;
+
+    height: 100vh;
+
+    position: fixed;
+
+    background-color: rgb(84, 51, 9);
+
+    right: 0;
+
+    top: 0;
+
+    box-sizing: border-box;
+
+    padding: 20px;
+
+   
+
+}
+
+.d-none{
+
+    display: none;
+
+}
+
+
+
+
+@media only screen and (max-width:320px) {
+
+    .consultation-section{
+
+        margin-left: 30px;
+
+        padding-top:30px;
+
+        height: 350px;
+
+        width: 80%;
+
+    }
+
+    .secondDiscover{
+
+        margin-top: 10px;
+
+        margin-left: 0;
+
+        margin-right: 20px;
+
+    }
+
+   
+
+   
+
+}
+
+ 
+
+@media only screen and (max-width:800px){
+
+    body{
+
+        text-align: center;
+
+    }
+
+    .textinIMG{
+
+       display: none;
+
+    }
+
+    .play{
+
+        padding: 15px 20px;
+
+    }
+
+    .testimonialWrapper{
+
+        margin-bottom: 100px;
+
+        width: 100%;
+
+        height: auto;
+
+    }
+
+    .gettoknowusContainer{
+
+        margin-left: 0 !important;
+
+    }
+
+    .gettoknowusIMG{
+
+        height:auto ;
+
+        padding-left: 0 !important;
+
+    }
+
+    .webBox{
+
+        width: 100%;
+
+        height: auto;
+
+    }
+
+    .consultation-section{
+
+        width: 100%;
+
+        height: auto;
+
+        margin: 0;
+
+        padding-left: 0;
+
+    }
+
+   
+
+    .web-navbar{
+
+        width: 100%;
+
+        height: auto;
+
+       
+
+       
+
+    }
+
+    .kimox-logo{
+
+        align-self: start;
+
+ }
+
+ .hero-overlay{
+
+    width: 100%;
+
+    height: 600px;
+
+}
+
+ .agency-title-container{
+
+     padding-left: 0;
+
+ }
+
+ .agency-title
+
+ {
+
+     font-size: 30px;
+
+     font-weight: 800;
+
+     line-height: 120%;
+
+ }
+
+ .agency-welcome{
+
+    font-size: 0.9rem;
+
+ 
+
+ }
+
+ .secondDiscover {
+
+    margin-left: 40px;
+
+}
+
+.contacttext2Title{
+
+    padding-bottom: 10px !important;
+
+    padding-top: 30px !important;
+
+}
+
+.contactContainer{
+
+    text-align: center;
+
+}
+
+.iconText{
+
+    justify-content: center;
+
+}
+
+.qualityIMGWrapper{
+
+    text-align: center;
+
+    padding-top: 10px;
+
+}
+
+.businessHeader{
+
+    font-size: 35px;
+
+}
+
+.businessSection{
+
+    padding-bottom: 0;
+
+}
+
+.consultation-1st-col {
+
+   
+
+    padding-bottom: 10px;
+
+}
+
+ .gallerypic{
+
+    padding-bottom: 10px;
+
+ }
+
+ .categoriesServices {
+
+    font-size: 35px;
+
+    line-height: 45px;
+
+}
+
+ 
+
+ .testimonialSection{
+
+     padding-bottom: 100px;
+
+ }
+
+    .articleImg{
+
+        width: 100%;
+
+        height: auto;
+
+    }
+
+    .qualitySection{
+
+        display: block;
+
+        padding-top: 100px;
+
+    }
+
+    .qualitySectionContainer{
+
+      display:inline-block !important;
+
+    }
+
+    .qualitySectionTextWrapper{
+
+        display: inline-block !important;
+
+    }
+
+    .qualityIMGWrapper {
+
+        padding-left: 0 !important;
+
+        padding-top: 10px;
+
+    }
+
+    .qualitySectionText {
+
+        padding-top: 50px;
+
+    }
+
+    .welcomedigitalAgency{
+
+        font-size: 35px;
+
+        line-height: 45px;
+
+    }
+
+    .picturegallerySubtitle{
+
+        font-size: 35px;
+
+        line-height: 45px;
+
+        padding-bottom: 16px !important;
+
+    }
+
+    .businessHeader{
+
+        font-size: 30px;
+
+        line-height: 35px;
+
+    }
+
+    .articleWrapper1{
+
+        padding-top: 0;
+
+    }
+
+    .articleWrapper1text{
+
+        padding-bottom: 70px;
+
+    }
+
+    .articletextTitle{
+
+        font-size: 17px;
+
+    }
+
+    .articletextSubtitle{
+
+        padding-top: 4px;
+
+    }
+
+   .articleWrapper2{
+
+    padding-top: 30px;
+
+   }
+
+   .qualitySectionTextTitle{
+
+    font-size: 30px;
+
+    font-weight: 800;
+
+    padding-bottom: 20px;
+
+   }
+
+   .testimonialText{
+
+    font-size: 17px;
+
+        line-height: 35px;
+
+   }
+
+   .card-img-overlay{
+
+    margin: 0 !important;
+
+   }
+
+ 
+
+}
